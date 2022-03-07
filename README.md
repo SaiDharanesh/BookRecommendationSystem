@@ -36,7 +36,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/SaiDharanesh/Books-Recommender-System-Using-Machine-Learning
+https://github.com/SaiDharanesh/BooksRecommendationSystem.
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
