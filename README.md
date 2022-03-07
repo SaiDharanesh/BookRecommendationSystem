@@ -15,12 +15,13 @@ here is a demo,
 
 
 # Demo:
+![1](https://user-images.githubusercontent.com/89697860/157007489-7d1774e4-0d44-49e3-acd7-2013a84f1a49.PNG)
+![2](https://user-images.githubusercontent.com/89697860/157007536-bbd023aa-8741-44d2-aa62-64e88ca454fe.PNG)
+![3](https://user-images.githubusercontent.com/89697860/157007567-05c45132-b755-4a4e-bc18-47e7bd0f3e59.PNG)
 
-<img src="C:/Users/Dell/Documents/AI Course/MachineLearning/Books-Recommender-System-Using-Machine-Learning-master/demo/1.png" alt="workflow" width="70%">
 
-<img src="C:/Users/Dell/Documents/AI Course/MachineLearning/Books-Recommender-System-Using-Machine-Learning-master/demo/2.png" alt="workflow" width="70%">
 
-<img src="C:/Users/Dell/Documents/AI Course/MachineLearning/Books-Recommender-System-Using-Machine-Learning-master/demo/3.png" alt="workflow" width="70%">
+
 
 
 # Dataset has been used:
